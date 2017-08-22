@@ -1,0 +1,22 @@
+﻿@import 'nativescript-theme-core/css/core.light.css';
+
+.page {
+    background-color: #F2F2F2;
+}
+
+TextView {
+    background-color: #FFF;
+}
+
+.bordered {
+    border-width: 1;
+    border-color: green;
+}
+
+.fixed-height {
+    height: 70;
+}
+
+.border-radius {
+    border-radius: 4;
+}
